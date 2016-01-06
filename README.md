@@ -88,7 +88,7 @@ Today we'll be doing a lot of reviewing, workshop'ing, and self-guided work. You
 
 * [Peer Reviews](./Peer_Reviews.md)
 * [Finding New Opportunities](./Finding_Opportunities.md)
-* [Trello Board](add link)
+* [Trello Board](https://trello.com/b/49XoJTS4/dbc-sf-sample-job-search-board)
 * [Boolean Searching](./Boolean_Searching.md)
 * [Dev Connect with Sarena](./DevConnect.md)
 * Outreach/Introductions
